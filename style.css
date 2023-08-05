@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.stopwatch {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 50px;
+}
+.stop , .start, .reset{
+    background-color: red;
+    font-size: 20px;
+    color: azure;
+    border-radius: 10px;
+    width: 100px;
+}
