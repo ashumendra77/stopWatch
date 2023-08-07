@@ -14,14 +14,14 @@ body {
 }
 
 .time {
-    background-color: brown;
+    /* background-color: brown; */
     text-align: center;
 }
 
 .stop,
 .start,
 .reset {
-    
+
     background-color: black;
     font-size: 30px;
     color: azure;
